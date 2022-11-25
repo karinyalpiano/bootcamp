@@ -1,6 +1,6 @@
 ### Bootcamp Engenharia de Dados - Soul Code Academy
 
-#####Escopo da Atividade:
+##### Escopo da Atividade:
 
 - O arquivo está em outra linguagem e deve ter seus dados traduzidos para Português-BR;
 - Realizar a extração corretamente para um dataframe;
@@ -8,7 +8,7 @@
 - Realizar o drop(se necessário) de colunas do dataframe realizando o comentário do porque da exclusão; 
 - Todos os passos devem ser comentados.
 
-#####Tecnologias utilizadas:
+##### Tecnologias utilizadas:
 
 - Google Cloud Platform
  - Vertex AI - Workbench
