@@ -11,11 +11,11 @@
 ##### Tecnologias utilizadas:
 
 - Google Cloud Platform
- - Vertex AI - Workbench
- - Cloud Storage
- - Compute Engine
+  - Vertex AI - Workbench
+  - Cloud Storage
+  - Compute Engine
 - Python
- - Pandas
- - Pandera
+  - Pandas
+  - Pandera
  
 A atividade foi realizada em ambinente cloud, rodando uma VM com Jupyter Notebook. Toda pipeline de tratamento de dados foi desenvolvida em python, utilizando bibliotecas de análise de dados.
